@@ -5,7 +5,7 @@
 
 ## Использование
 ```python
-from hidden_input import hidden_input
+from ntpaw import hidden_input
 
 # Простейший вариант (полностью скрытый ввод)
 password = hidden_input("Введите пароль: ")
